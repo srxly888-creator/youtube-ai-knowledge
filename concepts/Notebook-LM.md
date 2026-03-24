@@ -36,14 +36,20 @@ Google 推出的 AI 驱动笔记本系统，支持多文档关联、自动摘要
 
 ## 字幕与书签来源
 
-### X 书签
+### X 书签（主要来源）
 - **@rwayne** (1690 Likes, 2767 Bookmarks)
   - 主题：Notebook LM 深度使用
+  - 核心内容："我对 notebook LM 已经到了出神入化阶段"
   - 价值：⭐⭐⭐⭐⭐
   - 行动：立即学习 Notebook LM
 
-### YouTube 字幕
-- Diary of a CEO 频道 - AI 知识管理相关
+### YouTube 字幕（辅助参考）
+- **Diary of a CEO 频道**（346 个字幕）
+  - 相关主题：AI、知识管理、知识图谱
+  - 字幕文件夹：[diaryofaceo-subtitles/](../diaryofaceo-subtitles/)
+  - 搜索关键词：knowledge, 知识, notebook, 笔记
+
+**注意**: Notebook LM 主要来自 X 书签，YouTube 字幕提供相关技术背景
 
 ---
 
