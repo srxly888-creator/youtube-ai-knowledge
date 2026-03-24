@@ -67,10 +67,68 @@ Google 推出的 AI 驱动笔记本系统，支持多文档关联、自动摘要
 
 ---
 
+## 🎓 Notebook LM Skill
+
+**Skill 文件**: `/Volumes/PS1008/Applications/ClawX.app/Contents/Resources/openclaw/skills/notebooklm/SKILL.md`
+
+### 快速上手
+
+**步骤 1**: 访问 Notebook LM
+- 网址: https://notebooklm.google.com
+- 登录 Google 账号
+
+**步骤 2**: 创建笔记本
+- 点击"新建笔记本"
+- 上传文档（PDF、TXT、Google Docs、网页链接）
+- Notebook LM 自动分析并建立关联
+
+**步骤 3**: 智能问答
+```
+提问示例：
+- "这份文档的核心观点是什么？"
+- "文档 A 和文档 B 有什么关联？"
+- "总结所有文档的关键概念"
+```
+
+### 高级技巧（来自 @rwayne）
+
+1. **多文档关联分析**
+   - 上传 10 篇相关文档
+   - 提问："这些文档对 [主题] 的定义有什么异同？"
+   - Notebook LM 自动对比并生成分析
+
+2. **动态知识库**
+   - 创建"AI 知识库"笔记本
+   - 每周上传新的论文、博客、新闻
+   - 定期提问："本周有什么新突破？"
+
+3. **学习路径生成**
+   - 上传入门教程、进阶文章、实战案例
+   - 提问："为初学者设计学习路径"
+   - Notebook LM 生成循序渐进的学习计划
+
+4. **音频生成**（新功能）
+   - 选择笔记 → 生成音频 → 下载 MP3
+   - 将学习笔记转为播客
+
+### 与其他工具集成
+
+- **Obsidian**: Notebook LM（分析）→ Obsidian（存储）→ AI Agent（检索）
+- **OpenClaw Agent**: Notebook LM（在线分析）→ 返回结果
+- **RAG 系统**: Notebook LM（预处理）→ 向量化 → Vector DB
+
+---
+
 ## 延伸阅读
 
+### 官方资源
 - [Notebook LM 官网](https://notebooklm.google.com)
 - [使用指南](https://support.google.com/notebooklm)
+- [Skill 文件](/Volumes/PS1008/Applications/ClawX.app/Contents/Resources/openclaw/skills/notebooklm/SKILL.md)
+
+### 社区资源
+- X 书签 @rwayne (1690 Likes) - 深度使用心得
+- YouTube 教程 - 搜索"Notebook LM tutorial"
 
 ---
 
