@@ -69,6 +69,58 @@ Google 推出的 AI 驱动笔记本系统，支持多文档关联、自动摘要
 
 ## 🎓 Notebook LM Skill
 
+### 官方工具（推荐）
+
+#### 1. notebooklm-skill
+**GitHub**: https://github.com/srxly888-creator/notebooklm-skill
+
+**核心功能**:
+- ✅ **API 交互**: 让 Claude Code 直接与 Google NotebookLM 通信
+- ✅ **文档查询**: 查询上传到 NotebookLM 的文档
+- ✅ **智能问答**: 获得基于来源的、有引用支持的答案
+- ✅ **浏览器自动化**: 自动化操作 NotebookLM
+- ✅ **库管理**: 管理文档库
+- ✅ **持久认证**: 保持登录状态
+
+**安装**:
+```bash
+git clone https://github.com/srxly888-creator/notebooklm-skill.git
+cd notebooklm-skill
+pip install -r requirements.txt
+python setup_auth.py
+```
+
+**使用**:
+```python
+from notebooklm_skill import NotebookLM
+
+nb = NotebookLM()
+result = nb.query("大语言模型的核心能力是什么？")
+print(result.answer)
+```
+
+#### 2. anything-to-notebooklm
+**GitHub**: https://github.com/srxly888-creator/anything-to-notebooklm
+
+**核心功能**:
+- ✅ **格式转换**: 将各种格式转换为 NotebookLM 可用格式
+- ✅ **批量导入**: 批量导入文档到 NotebookLM
+- ✅ **自动上传**: 自动化上传流程
+
+**使用**:
+```bash
+git clone https://github.com/srxly888-creator/anything-to-notebooklm.git
+cd anything-to-notebooklm
+
+# 导入文档
+python convert.py --input /path/to/docs --output notebooklm_import
+python upload.py --input notebooklm_import --notebook "AI 知识图谱"
+```
+
+---
+
+### 使用指南
+
 **Skill 文件**: `/Volumes/PS1008/Applications/ClawX.app/Contents/Resources/openclaw/skills/notebooklm/SKILL.md`
 
 ### 快速上手
