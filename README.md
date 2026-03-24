@@ -66,22 +66,48 @@ find . -name "*.vtt" | wc -l
 python scripts/vtt_to_notes.py
 ```
 
+## 🧠 知识图谱与双链系统
+
+### 核心概念（22 个）
+
+| 类别 | 概念 | 说明 |
+|------|------|------|
+| **大语言模型** | [[GLM-5]], [[Claude Opus 4.6]], [[ChatGPT]], [[GPT-4]], [[DeepSeek]] | 核心生成引擎 |
+| **AI 应用** | [[AI Agent]], [[AI 编程]], [[Prompt Engineering]], [[RAG]] | 实际应用场景 |
+| **技术架构** | [[Transformer]], [[微调]], [[向量数据库]], [[知识图谱]] | 底层技术 |
+| **核心能力** | [[Function Calling]], [[任务规划]], [[自我反思]] | Agent 能力 |
+| **行业应用** | [[SaaS]], [[金融科技]], [[企业管理]], [[自动化工作流]] | 商业应用 |
+| **社会影响** | [[AI 与就业]], [[AI 伦理]], [[AI 安全]], [[AGI]] | 社会层面 |
+
+### 知识图谱
+- **可视化图谱**: `concepts/knowledge-graph.md`（Mermaid 格式）
+- **概念索引**: `concepts/INDEX.md`（字幕与概念映射）
+- **双链导航**: 使用 Obsidian 打开查看关联关系
+
+### 使用方法
+1. **克隆仓库** → 用 Obsidian 打开
+2. **查看图谱** → 使用 Graph View 可视化
+3. **双链导航** → 点击 [[概念名]] 跳转
+4. **字幕溯源** → 每个概念关联原始字幕
+
+---
+
 ## 🎓 学习路径
 
 ### 入门级（0-3 个月）
-1. AI 基础概念
-2. 机器学习入门
-3. Python 编程
+1. **AI 基础概念** - [[大语言模型]], [[Transformer]]
+2. **机器学习入门** - 监督/无监督学习
+3. **Python 编程** - 基础语法 + 实践
 
 ### 进阶级（3-6 个月）
-1. 深度学习框架
-2. NLP 基础
-3. Prompt Engineering
+1. **深度学习框架** - PyTorch/TensorFlow
+2. **NLP 基础** - 文本处理 + 向量化
+3. **Prompt Engineering** - 提示词设计技巧
 
 ### 高级（6-12 个月）
-1. 模型微调
-2. RAG 应用
-3. Agent 开发
+1. **模型微调** - LoRA/QLoRA
+2. **RAG 应用** - 检索增强生成
+3. **Agent 开发** - Function Calling + 多智能体
 
 ## 📚 相关仓库
 
