@@ -35,14 +35,21 @@
 
 ## 字幕与书签来源
 
-### X 书签
+### X 书签（主要来源）
 - **@vista8** (394 Likes, 639 Bookmarks)
   - 主题：个人助理记忆系统
+  - 核心内容：氪 100+ 刀打通 memU
+  - 技术栈：memU + Vector DB + LLM
   - 价值：⭐⭐⭐⭐
   - 行动：研究 memU 系统，设计记忆架构
 
-### YouTube 字幕
-- Diary of a CEO 频道 - AI 记忆系统相关
+### YouTube 字幕（辅助参考）
+- **Diary of a CEO 频道**（346 个字幕）
+  - 相关主题：AI、记忆系统、向量数据库
+  - 字幕文件夹：[diaryofaceo-subtitles/](../diaryofaceo-subtitles/)
+  - 搜索关键词：memory, 记忆, vector, 向量
+
+**注意**: memU 系统主要来自 X 书签，YouTube 字幕提供相关技术背景
 
 ---
 
