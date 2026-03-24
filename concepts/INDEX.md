@@ -172,7 +172,7 @@
 | 1 | 1690 | @rwayne | Notebook LM 深度使用 | [[Notebook LM]] |
 | 2 | 763 | @seekjourney | jina-cli | [[AI Agent]], [[RAG]] |
 | 3 | 600 | @zstmfhy | AI代理看世界CLI | [[AI Agent]] |
-| 4 | 566 | @ianneo_ai | 一人AI公司秘密 | [[一人 AI 公司]] |
+| 4 | 566 | @ianneo_ai | 零人AI公司秘密（Paperclip） | [[零人 AI 公司]] |
 | 5 | 540 | @zstmfhy | OpenClaw抓取新闻 | [[AI Agent]] |
 | 6 | 488 | @bourneliu66 | 代码速度 | [[AI 编程]] |
 | 7 | 394 | @vista8 | 记忆系统 | [[memU 记忆系统]] |
