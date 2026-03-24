@@ -40,7 +40,12 @@
 youtube-ai-knowledge/
 ├── bestpartners-subtitles/      # Best Partners 频道（39 个）
 ├── diaryofaceo-subtitles/       # Diary of a CEO 频道（346 个）
-└── wowinsight-subtitles/        # Wow Insight 频道（14 个）
+├── wowinsight-subtitles/        # Wow Insight 频道（14 个）
+├── concepts/                    # 核心概念图谱（25 个核心概念）
+│   ├── INDEX.md                 # 概念索引
+│   ├── knowledge-graph.md       # 知识图谱可视化
+│   └── *.md                     # 各概念详细说明
+└── KNOWLEDGE-GRAPH-REPORT.md    # 知识图谱分析报告
 ```
 
 ## 🔍 使用方法
