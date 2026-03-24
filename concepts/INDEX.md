@@ -163,6 +163,34 @@
 
 ---
 
+## 📱 X 书签来源
+
+### 高价值 AI 书签（Top 10）
+
+| 排名 | Likes | 用户 | 主题 | 关联概念 |
+|------|-------|------|------|----------|
+| 1 | 1690 | @rwayne | Notebook LM 深度使用 | [[Notebook LM]] |
+| 2 | 763 | @seekjourney | jina-cli | [[AI Agent]], [[RAG]] |
+| 3 | 600 | @zstmfhy | AI代理看世界CLI | [[AI Agent]] |
+| 4 | 566 | @ianneo_ai | 一人AI公司秘密 | [[一人 AI 公司]] |
+| 5 | 540 | @zstmfhy | OpenClaw抓取新闻 | [[AI Agent]] |
+| 6 | 488 | @bourneliu66 | 代码速度 | [[AI 编程]] |
+| 7 | 394 | @vista8 | 记忆系统 | [[memU 记忆系统]] |
+| 8 | 2064 | @GoJun315 | WiFi-DensePose | [[AI 应用]] |
+| 9 | 783 | @iamtonyzhu | 批评 Anthropic | [[大语言模型]] |
+| 10 | 355 | @dotey | OpenAI与国防部 | [[AI 安全]] |
+
+**详细映射**: `concepts/X-Bookmarks-Mapping.md`
+
+**书签统计**:
+- 总书签: 58
+- AI 相关: 10
+- 总 Likes: 6534
+- 平均价值: ⭐⭐⭐⭐
+
+---
+
 **创建时间**: 2026-03-24
 **更新频率**: 每周
 **维护者**: AI 知识图谱团队
+**X 书签整合**: ✅ 已完成（2026-03-24 11:20）
