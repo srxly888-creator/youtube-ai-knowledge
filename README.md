@@ -53,7 +53,7 @@ youtube-ai-knowledge/
 ### 1. 克隆仓库
 ```bash
 git clone https://github.com/srxly888-creator/youtube-ai-knowledge.git
-cd youtube-ai-knowledge
+cd ai-knowledge-graph
 ```
 
 ### 2. 搜索字幕
@@ -78,12 +78,12 @@ python scripts/vtt_to_notes.py
 | 类别 | 概念 | 说明 |
 |------|------|------|
 | **大语言模型** | [[GLM-5]], [[Claude Opus 4.6]], [[ChatGPT]], [[GPT-4]], [[DeepSeek]], [[X-AI-Grok]] | 核心生成引擎 |
-| **AI 应用** | [[AI 代理]], [[AI 编程]], [[提示词工程]], [[RAG-检索增强生成]] | 实际应用场景 |
+| **AI 应用** | [[AI-Agent]], [[AI-Coding]], [[Prompt-Engineering]], [[RAG]] | 实际应用场景 |
 | **技术架构** | [[Transformer]], [[微调]], [[向量数据库]], [[知识图谱]] | 底层技术 |
-| **核心能力** | [[函数调用]], [[任务规划]], [[自我反思]] | Agent 能力 |
-| **行业应用** | [[SaaS]], [[金融科技]], [[企业管理]], [[自动化工作流]] | 商业应用 |
+| **核心能力** | [[Function-Calling]], [[任务规划]], [[自我反思]] | Agent 能力 |
+| **行业应用** | [[SaaS]], [[金融科技]], [[企业组织管理]], [[自动化工作流]] | 商业应用 |
 | **社会影响** | [[AI 与就业]], [[AI 伦理]], [[AI 安全]], [[AGI]] | 社会层面 |
-| **X 书签新增** | [[Notebook LM]], [[memU 记忆系统]], [[一人 AI 公司]] | 高价值内容 |
+| **X 书签新增** | [[Notebook LM]], [[memU 记忆系统]], [[零人 AI 公司]] | 高价值内容 |
 
 ### 知识图谱
 - **可视化图谱**: `concepts/knowledge-graph.md`（Mermaid 格式）
